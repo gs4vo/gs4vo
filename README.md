@@ -40,6 +40,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gsavo/gsavo/output/snake.svg" alt="Snake animation" />
-
 ###
