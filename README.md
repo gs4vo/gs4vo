@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gustavo Ferreira </h2>
+<h2 align="left">Hi 👋! My name is Gustavo Ferreira</h2>
 
 ###
 
@@ -39,8 +39,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/gsavo/gsavo/output/snake.svg" alt="Snake animation" />
 
